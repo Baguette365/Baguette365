@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Baguette365
 - 👀 I’m interested in the game dev and calculators
-- 🌱 I’m currently learning the frameworks LOVE2D
+- 🌱 I’m currently learning the frameworks Godot 4.3
 - 💞️ I’m looking to collaborate on Nobody
 - 📫 How to reach me : create an issues on one of my github repos
