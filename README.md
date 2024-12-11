@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Baguette365
 - 👀 I’m interested in the game dev and calculators
-- 🌱 I’m currently learning the frameworks Godot 4.3
-- 💞️ I’m looking to collaborate on Nobody
+- 🌱 I’m currently learning kivy for my app
+- 💞️ everyone can work with me on LoRe
 - 📫 How to reach me : create an issues on one of my github repos
+- 🤖 i work on LoRe (pronounced Lo - Re), the future best learning app for desktop, phone, and calculator
