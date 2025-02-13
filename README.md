@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baguette365
 - 👀 I’m interested in the game dev and calculators
-- 🌱 I’m currently learning kivy for my app
-- 💞️ everyone can work with me on LoRe
-- 📫 How to reach me : create an issues on one of my github repos
-- 🤖 i work on LoRe (pronounced Lo - Re), the future best learning app for desktop, phone, and calculator
+- 🌱 I’m currently learning flet for ManthanApp(my learning aoo)
+- 💞️ everyone can work with me on ManthanApp
+- 📫 How to reach me : charlesgodefroy00@gmail.com
+- 🤖 i work on ManthanApp, the future best learning app for desktop, phone, and calculator
