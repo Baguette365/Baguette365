@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baguette365
-- 👀 I’m interested in the game dev and calculators
-- 🌱 I’m currently learning flet for ManthanApp(my learning aoo)
-- 💞️ everyone can work with me on ManthanApp
+- 👀 I’m interested in the game dev, calculators, maths, dev
+- 🌱 I’m currently learning django-python
+- 💞️ everyone can work with my bto @MatrixS01
 - 📫 How to reach me : charlesgodefroy00@gmail.com
-- 🤖 i work on ManthanApp, the future best learning app for desktop, phone, and calculator
+- 📕 I know a lot of things in python and flet, I get by in C# for Unity, kotlin, c, c++, html, css, and GDscript
