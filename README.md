@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baguette365
 - 👀 I’m interested in the game dev, calculators, maths, dev
 - 🌱 I’m currently learning django-python
-- 💞️ everyone can work with my bto @MatrixS01
+- 💞️ looking to work with my bro @MatrixS01
 - 📫 How to reach me : charlesgodefroy00@gmail.com
 - 📕 I know a lot of things in python and flet, I get by in C# for Unity, kotlin, c, c++, html, css, and GDscript
